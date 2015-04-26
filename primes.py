@@ -1,4 +1,4 @@
-class prime_class: """clase"""
+class prime_class: """clase que contiene al metodo"""
   x=raw_input("Ingrese un Numero: ") 
   def is_prime(int(x)): """metodo"""
   x=int(x)    """convierte el dato ingresado en un entero"""
